@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Frank</string>
+    <string name="yellow_start">Yellow start</string>
+    <string name="bio">"some long text some long text some long text some long text some some long text some long text some long text some long text some some long text some long text some long text some long text some some long text some long text some long text some long text some some long text some long text some long text some long text some"</string>
+    <string name="whatis_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
